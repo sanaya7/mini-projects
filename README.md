@@ -1,12 +1,4 @@
 # CSE 11 Fall 2022 PA7 - Critter and Inheritance
-**Due date: Thursday, Nov 17 @11:59PM PDT**
-
-There is an [FAQ post](https://piazza.com/class/l871flmwsqy8i/post/938) on Piazza. Please read that post first if you have any questions.
-
-**Download the starter code from GitHub by clicking: Code $\rightarrow$ Download ZIP**
-
-## Provided Files:
-The following files are provided:
 
 * `Critter.java`: prototype of a critter object, contains a class of Critter and enums Direction and Attack.
 * `Starfish.java`: Patrick Star, he lives in Bikini Bottom.
@@ -20,16 +12,6 @@ The following files are provided:
 **Prepare for the ultimate battle of your CSE 11 career!**
 
 This week you'll be writing several classes and testing your game-play strategy with Critters that you design for combat. The rules are generally simple, but there are some nuances to the rules so read each part carefully. You will use inheritance that you learned in class, to enter various critter competitions where critters face off against each other in an arena. You will also be designing your own critter, which will go into battle against the critter creations of your fellow students.
-
-## Overview
-- Survey [Google Form, 1 point]
-- Critter [Gradescope, 99 points]
-    - Implementation [94 points]
-    - Style [5 points]
-- Extra Credit [Gradescope, 5 points]
-
-## Survey [1 Point]
-Please fill out [this survey](https://forms.gle/qvSmZoZgv15wackd7) regarding your experience in this course.
 
 ## Arena & Simulation Mechanics
 Several classes in the starter code implement a graphical simulation of a 2D world with many animals moving around in it. You will write a set of classes that define the behavior of these animals. For each class, you are defining the unique behaviors for each animal. 
